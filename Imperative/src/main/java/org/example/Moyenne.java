@@ -50,6 +50,5 @@ public class Moyenne {
         System.out.println("le plus petit nombre est : " + small);
         System.out.println("La moyenne est : " + moyenne);
 
-
     }
 }
