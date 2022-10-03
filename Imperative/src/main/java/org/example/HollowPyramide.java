@@ -27,19 +27,6 @@ public class HollowPyramide {
 
             //un etoile
             System.out.print("*");
-
-            //un certain nombre d'espace
-            for (int i=1;i<=milieu;i++)
-            {
-                System.out.print(" ");
-            }
-            milieu = milieu + 2;
-
-            //une etoile
-            System.out.print("*");
-            //un saut de ligne
-            System.out.println(" ");
-
         }
         for (int i = 1;i < taille*2; i++)
         {
